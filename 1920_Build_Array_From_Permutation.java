@@ -23,4 +23,5 @@ public class 1920_Build_Array_From_Permutation {
         }
         return arr;
     }
+    
 }
